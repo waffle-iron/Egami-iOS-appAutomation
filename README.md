@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Trisha1212/Egami-iOS-appAutomation.png?label=ready&title=Ready)](https://waffle.io/Trisha1212/Egami-iOS-appAutomation?utm_source=badge)
 # Project Title: Egami-iOS-appAutomation
 iOS App Automation using Appium & Webdriver.io
 
